@@ -11,7 +11,7 @@ Reach me here for more information! https://www.linkedin.com/in/bensomosi/
 <br>
 <br>
 ## Documentation
-Brief about how to install and use the tool.
+Quick brief about how to install and use the tool.
 <br>
 <br>
 ### Install
