@@ -1,5 +1,5 @@
 # CFX-Nucleus-Manager
-Nucleus Manager is tool for CFX artists to manage simulation nodes easier in your scene. The tool was written in Python 2.7x.
+Nucleus Manager is a tool for CFX artists to manage simulation nodes easier in your scene. The tool was written in Python 2.7x.
 <br>
 <br>
 **Author:** Bence Somosi
