@@ -19,7 +19,7 @@ Download the python file from my Github page by using this link. https://github.
 
 Copy and paste the downloaded folder into your Maya folder.
 <br>
-The path should look like this: *C:\Users\YOUR_USERNAME\Documents\maya\scripts*
+The path should look like this: ```C:\Users\YOUR_USERNAME\Documents\maya\scripts```
 <br>
 
 
