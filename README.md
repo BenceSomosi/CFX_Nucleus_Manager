@@ -15,8 +15,7 @@ Quick brief about how to install and use the tool.
 <br>
 <br>
 ### Install
-Download the python file from my Github page by using this link. https://github.com/BenceSomosi/CFX---Nucleus-Manager/archive/refs/heads/main.zip
-
+Download the python project from my Github page.
 Copy and paste the downloaded folder into your Maya folder.
 <br>
 The path should look like this: ```C:\Users\YOUR_USERNAME\Documents\maya\scripts```
