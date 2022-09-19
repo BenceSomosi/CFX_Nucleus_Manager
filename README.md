@@ -16,9 +16,8 @@ Quick brief about how to install and use the tool.
 <br>
 ### Install
 Download the python project from my Github page.
-<br>
+<br><br>
 Copy and paste the downloaded folder into your Maya folder.
-<br>
 <br>
 The path should look like this: ```C:\Users\YOUR_USERNAME\Documents\maya\scripts```
 <br>
